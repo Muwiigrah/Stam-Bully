@@ -255,4 +255,8 @@ header img {
     nav {
     margin-bottom: 5px;
     }
+    body { 
+    overflow-x: hidden;
+    overflow-y: scroll;
+    }
 }
